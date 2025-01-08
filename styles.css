@@ -1,1 +1,12 @@
-/*  your css code here. If applicable */
+table,tr,td{
+	border:1px solid black;
+	width:100%;
+	table-layout: fixed;
+	height:15px
+}
+.center{
+	text-align:center;
+}
+.right{
+	text-align:right;
+}
